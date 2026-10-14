@@ -1,0 +1,7 @@
+Load ID,Description,Quantity,Power_kW,Demand_Factor
+M-01,Production Motors,4,15,0.8
+M-02,Pump Motors,2,7.5,0.8
+HVAC,Air Conditioning,3,5,0.9
+LGT,Lighting,1,8,1.0
+SOC,Socket Outlets,1,5,0.6
+AUX,Auxiliary Loads,1,4,0.8
